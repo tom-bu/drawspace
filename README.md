@@ -27,13 +27,15 @@ Draw anytime, anywhere. Whether you’re on the train, on the airplane, or waiti
 * Open past drawings from gallery
 
 ## Screenshots
-![](imgs/load screen.png "title-2")
-![](imgs/ColorWheel.png "title-1") 
-![](imgs/device-2018-03-25-230122.png "title-2")
-![](imgs/device-2018-03-25-230149.png "title-1") 
-![](imgs/device-2018-03-25-230219.png "title-2")
-![](imgs/device-2018-03-26-163840.png "title-1") 
+<p float="left">
+  <img src="https://github.com/tom-bu/drawspace/blob/master/imgs/load screen.png" width="100" />
+  <img src="https://github.com/tom-bu/drawspace/blob/master/imgs/ColorWheel.png" width="100" /> 
+  <img src="https://github.com/tom-bu/drawspace/blob/master/imgs/device-2018-03-25-230122.png" width="100" />
+  <img src="https://github.com/tom-bu/drawspace/blob/master/imgs/device-2018-03-25-230149.png" width="100" />
+  <img src="https://github.com/tom-bu/drawspace/blob/master/imgs/device-2018-03-25-230219.png" />
+  <img src="https://github.com/tom-bu/drawspace/blob/master/imgs/device-2018-03-26-163840.png" width="100" />
 
+</p>
 
 
 ## Video
