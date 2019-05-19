@@ -1,0 +1,41 @@
+![alt-text-1](imgs/Feature Graphic2.png "title-1") 
+
+
+# Draw Space - Easy Drawing & Coloring App
+Draw, paint, and doodle in this easy-to-use app. Suitable for kids and adults
+
+**Note**: This app is no longer maintained.
+
+##Description
+Draw Space is a sketching application suitable for artists of all levels. This canvas is your private place to draw, doodle, and graffiti. For beginners, Draw Space provides a free, easy way to learn how to paint and sketch and get the feel of making visually appealing artwork. For advanced drawers, utilize the convenience of Draw Space to never let where you are stop you from creating.
+
+Draw Space’s pen follows your finger or stylus for a smooth, intuitive interface and gives you full control of brush color, opacity and brush size. 
+Zoom in on the canvas to make detailed sketches. Undo actions to correct mistakes. And, save your drawings to your photo gallery for you to keep and share with your friends.
+
+Draw anytime, anywhere. Whether you’re on the train, on the airplane, or waiting for the bus, whip out Draw Space and release your inner van Gogh. 
+
+## FEATURES:
+* Intuitive drawing interface
+* Complete color range 
+* Adjustable color brightness and opacity
+* Adjustable brush width
+* Drag and Zoom
+* Unlimited undo and redo presses
+* Sketches restored on open
+* Sketches saved to your photo gallery
+* Open past drawings from gallery
+
+## Screenshots
+![](imgs/load screen.png "title-2")
+![](imgs/ColorWheel.png "title-1") 
+![](imgs/device-2018-03-25-230122.png "title-2")
+![](imgs/device-2018-03-25-230149.png "title-1") 
+![](imgs/device-2018-03-25-230219.png "title-2")
+![](imgs/device-2018-03-26-163840.png "title-1") 
+
+
+
+## Video
+<p align="center">
+<img src="https://github.com/tom-bu/text_recognition/blob/master/device-2018-05-17-005521.png" width="220" height="350">
+</p>
