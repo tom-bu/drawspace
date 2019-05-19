@@ -1,5 +1,6 @@
-![alt-text-1](imgs/Feature Graphic2.png "title-1") 
-
+<p align="center">
+<img src="https://github.com/tom-bu/drawspace/blob/master/imgs/Feature%20Graphic2.png">
+</p>
 
 # Draw Space - Easy Drawing & Coloring App
 Draw, paint, and doodle in this easy-to-use app. Suitable for kids and adults
