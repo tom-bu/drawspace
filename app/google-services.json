@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "275071714573",
+    "firebase_url": "https://draw-space.firebaseio.com",
+    "project_id": "draw-space",
+    "storage_bucket": "draw-space.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275071714573:android:ca88b47beb04aeef",
+        "android_client_info": {
+          "package_name": "draw.space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275071714573-8po58370bon10d5k0u1pd9pacs3g8g0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKAwc9_ZuroxAsaP-zjgNY_fuYqRfg_Yg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

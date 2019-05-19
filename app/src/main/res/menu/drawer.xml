@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/color"
+            android:checkable="false"
+            android:enabled="true"
+            android:icon="@drawable/color_wheel"
+            android:title="Color" />
+        <item
+            android:id="@+id/size"
+            android:checkable="false"
+            android:icon="@drawable/ic_brush_black_24px"
+            android:title="Size" />
+        <item
+            android:id="@+id/zoom_in"
+            android:checkable="false"
+            android:icon="@drawable/ic_zoom_in_black_24px"
+            android:title="Zoom In" />
+        <item
+            android:id="@+id/zoom_ou"
+            android:checkable="false"
+            android:icon="@drawable/ic_zoom_out_black_24px"
+            android:title="Zoom Out"
+            android:visible="false"/>
+        <item
+            android:id="@+id/upload"
+            android:checkable="false"
+            android:icon="@drawable/ic_insert_photo_black_24dp"
+            android:title="Gallery"/>
+        <item
+            android:id="@+id/clear"
+            android:checkable="false"
+            android:icon="@drawable/clear"
+            android:title="Clear" />
+        <item
+            android:id="@+id/save"
+            android:checkable="false"
+            android:icon="@drawable/ic_file_download_black_24px"
+            android:title="Save" />
+        <item
+            android:id="@+id/exit"
+            android:checkable="false"
+            android:icon="@drawable/ic_logout"
+            android:title="Exit" />
+    </group>
+</menu>

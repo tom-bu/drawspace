@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+            <gradient
+                android:gradientRadius="100%p"
+                android:endColor="#b62500"
+                android:startColor="#badbff"
+                android:type="radial" />
+        </shape>
+    </item>
+
+    <item
+        android:bottom="90dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/draw_space_2"/>
+    </item>
+
+    <item
+        android:top="90dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/title_splash"/>
+    </item>
+
+</layer-list>
