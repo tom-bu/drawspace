@@ -7,7 +7,7 @@ Draw, paint, and doodle in this easy-to-use app. Suitable for kids and adults
 
 **Note**: This app is no longer maintained.
 
-##Description
+## Description
 Draw Space is a sketching application suitable for artists of all levels. This canvas is your private place to draw, doodle, and graffiti. For beginners, Draw Space provides a free, easy way to learn how to paint and sketch and get the feel of making visually appealing artwork. For advanced drawers, utilize the convenience of Draw Space to never let where you are stop you from creating.
 
 Draw Space’s pen follows your finger or stylus for a smooth, intuitive interface and gives you full control of brush color, opacity and brush size. 
@@ -15,7 +15,7 @@ Zoom in on the canvas to make detailed sketches. Undo actions to correct mistake
 
 Draw anytime, anywhere. Whether you’re on the train, on the airplane, or waiting for the bus, whip out Draw Space and release your inner van Gogh. 
 
-## FEATURES:
+## FEATURES
 * Intuitive drawing interface
 * Complete color range 
 * Adjustable color brightness and opacity
